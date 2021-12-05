@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on a mobile application and an API to facilitate meetings and the practice of mechanical sports on two wheels.
-- 🌱 I’m currently learning Spring Boot, API REST, JAva, Kotlin, Android.
+- 🌱 I’m currently learning Spring Boot, API REST, Java, Kotlin, Android.
 - 👯 I’m looking to collaborate with different people wishing to participate in a project wanting to reach the national (France).
 - 🤔 I’m looking for help with web development for the creation of the web platform.
 - 📫 How to reach me: Instagram @corentinbringer
